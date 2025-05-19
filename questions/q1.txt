@@ -1,0 +1,6 @@
+To jest pytanie nr1
+A. jeden
+B. dwa
+C. trzy
+D. cztery
+ANSWER: C
